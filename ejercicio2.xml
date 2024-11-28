@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<agenda> 
+ <contacto>
+    <nombre>Pedrito</nombre>
+    <apellido>tarantino</apellido>
+    <telefono>52689178</telefono>
+    <email>pedirtotarantino@gmail.com</email>
+  </contacto>
+  
+  <contacto>
+    <nombre> Martina</nombre>
+    <apellido>perez</apellido>
+    <telefono>62300178</telefono>
+    <email>martiperez@gmail.com</email>
+  </contacto>
+
+<contacto>
+    <nombre>Angel</nombre>
+    <apellido>fukushima</apellido>
+    <telefono>129655178</telefono>
+    <email>fukushima@suica.jp</email>
+  </contacto>
+
+</agenda>

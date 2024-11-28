@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<filmoteca> 
+ <pelicula>
+    <titulo> Hola</titulo>
+    <director>tarantino</director>
+    <duracion>178</duracion>
+  </pelicula>
+  
+  <pelicula>
+    <titulo> Hola</titulo>
+    <director>tarantino</director>
+    <duracion>178</duracion>
+  </pelicula>
+
+<pelicula>
+    <titulo> Hola</titulo>
+    <director>tarantino</director>
+    <duracion>178</duracion>
+  </pelicula>
+
+  <pelicula>
+    <titulo> Hola</titulo>
+    <director>tarantino</director>
+    <duracion>178</duracion>
+  </pelicula>
+
+<pelicula>
+    <titulo> Hola</titulo>
+    <director>tarantino</director>
+    <duracion>178</duracion>
+  </pelicula>
+  
+</filmoteca>
