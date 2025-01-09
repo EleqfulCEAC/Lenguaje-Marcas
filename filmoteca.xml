@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filmoteca [
+    <!ELEMENT filmoteca (pelicula+)>
+        <!ELEMENT  pelicula (titulo, director, duracion)>
+            <!ELEMENT titulo (#PCDATA)>
+            <!ELEMENT director (nombre, apellidos)>
+                <!ELEMENT nombre (#PCDATA)>
+                <!ELEMENT apellidos (#PCDATA)>
+            <!ELEMENT duracion (#PCDATA)>
+]>
+
+
+<filmoteca>
+    <pelicula>
+        <titulo></titulo>
+        <director>
+            <nombre></nombre>
+            <apellidos></apellidos>
+        </director>
+        <duracion></duracion>
+    </pelicula>
+
+     <pelicula>
+        <titulo></titulo>
+        <director>
+            <nombre></nombre>
+            <apellidos></apellidos>
+        </director>
+        <duracion></duracion>
+    </pelicula>
+</filmoteca>
+
